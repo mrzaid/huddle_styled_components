@@ -15,6 +15,24 @@ const theme = {
   mobile: '768px',
 }
 
+const theme={
+  colors:{
+      header:"#ebfbff"
+  }
+  breakpoints:{
+    mobile: '768px',
+    iphone: '768px',
+  }
+}
+
+
+
+
+
+
+
+
+
 function App() {
   return (
     <ThemeProvider theme={theme}>
