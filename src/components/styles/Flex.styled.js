@@ -1,4 +1,4 @@
-import styled from 'styled-components'
+import styled from "styled-components";
 
 export const Flex = styled.div`
   display: flex;
@@ -13,4 +13,4 @@ export const Flex = styled.div`
     flex-direction: column;
     text-align: center;
   }
-`
+`;
